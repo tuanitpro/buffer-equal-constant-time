@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha test.js"
   },
-  "repository": "git@github.com:goinstant/buffer-equal-constant-time.git",
+  "repository": "git@github.com:tuanitpro/buffer-equal-constant-time.git",
   "keywords": [
     "buffer",
     "equal",
